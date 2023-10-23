@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tarık Berkay</h1>
-<h3 align="center">Computer Engineer || Software Developer</h3>
-
+<p align="center"> <img src="https://user-images.githubusercontent.com/120065120/212209674-07b3685e-1127-4f42-9871-3a423d343fa2.svg" /> </p>
+<h1 align="left">Hi there ✋✋✋, I'm Tarık Berkay</h1>
+<h3 align="left">Computer Engineer || Software Developer</h3>
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tarıkberkayaltunkanat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarıkberkayaltunkanat" height="30" width="40" /></a>
