@@ -2,7 +2,7 @@
 <h1 align="left">Hi there ✋✋✋, I'm Tarık Berkay</h1>
 <h3 align="left">Computer Engineer || Software Developer</h3>
 
-<i> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fermentum, augue ac sagittis efficitur, lorem elit elementum nibh, ut lacinia eros neque non enim. Pellentesque viverra mollis faucibus. Ut finibus, velit at volutpat feugiat, tellus est accumsan neque, id viverra sem lacus eu lorem. Suspendisse sed erat vitae risus placerat feugiat eu non arcu. In consectetur mi sed ultrices aliquet. Suspendisse lobortis pretium molestie. Mauris non posuere lorem, in ullamcorper nibh. Cras vel lectus pellentesque, varius lectus ut, suscipit lorem. Vivamus accumsan consequat ex ut ornare. Nam gravida, urna id venenatis consequat, quam augue tincidunt tellus, vel scelerisque libero lorem vitae tellus. Aenean id felis in erat posuere bibendum.</i>
+<i> </i>
 
 <table><tr><td valign="top" width="100%">
 - 🌍 Living in Istanbul/Turkey  
