@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/120065120/212209674-07b3685e-1127-4f42-9871-3a423d343fa2.svg" /> </p>
-<h1 align="left">Hi there ✋✋✋, I'm Tarık Berkay</h1>
+<h1 align="left">Hi there ✋✋✋, I'm Tarık Berkay Altunkanat</h1>
 <h3 align="left">Computer Engineer || Software Developer</h3>
 
 <i> </i>
