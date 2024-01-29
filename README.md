@@ -1,5 +1,16 @@
-<p align="center"> <img src="https://user-images.githubusercontent.com/120065120/212209674-07b3685e-1127-4f42-9871-3a423d343fa2.svg" /> </p>
-<h1 align="left">Hi there ✋✋✋, I'm Tarık Berkay Altunkanat</h1>
+<div align="center">
+
+<picture>
+
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tarikberkay/tarikberkay/output/github-contribution-grid-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tarikberkay/tarikberkay/output/github-contribution-grid-snake.svg">
+
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tarikberkay/tarikberkay/output/github-contribution-grid-snake.svg">
+
+</picture>
+
+</div><h1 align="left">Hi there ✋✋✋, I'm Tarık Berkay Altunkanat</h1>
 <h3 align="left">Computer Engineer || Software Developer</h3>
 
 <i> </i>
