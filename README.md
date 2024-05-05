@@ -16,8 +16,9 @@
 
 </div><h1 align="left">Hi there ✋✋✋, I'm Tarık Berkay Altunkanat</h1>
 <h3 align="left">Computer Engineer || Software Developer</h3>
-
+<p>Hello! I'm Tarık Berkay Altunkanat, a Computer Engineer specializing as a Backend Developer. My expertise lies in developing cloud projects utilizing Python with Django and Django Rest Framework following the MVT architecture and API paradigms. I work closely with technologies such as AWS, Linux, Docker, Nginx, and Gunicorn. Additionally, I am proficient in utilizing database systems like PostgreSQL and SQLite, and API tools like Postman and Swagger. I also have experience with frontend technologies including HTML, CSS, JavaScript, and I prefer using modern design tools like Tailwind CSS. You can find my code repositories on GitHub, where I continuously learn and grow. Feel free to connect with me on LinkedIn to learn more about my professional background or explore my projects on GitHub.</p>
 <i> </i>
+<br>
 
 <table><tr><td valign="top" width="100%">
 - 🌍 Living in Istanbul/Turkey  
