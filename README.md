@@ -23,7 +23,7 @@
 <table><tr><td valign="top" width="100%">
 - 🌍 Living in Istanbul/Turkey  
   
-- 🌱 I’m currently learning Django, Python, AWS
+- 🌱 I’m currently working on Django, Python, AWS
   
 - ❓ Ask me about anything, i'm happy to help you  
   
